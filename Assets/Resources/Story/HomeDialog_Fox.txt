@@ -1,0 +1,13 @@
+﻿使用時機,頭像,對話($0=不顯示)
+Default,Fox1_2,
+FindFood,Fox1_1,發現食物！
+FindFood,Fox2_15,絕不放走被我發現的目標！
+GetFood,Fox2_12,當然的結果呢！
+GetFood,Fox2_14,這個味道...是不是有點過期了...
+LostFood,Fox3_10,我的食物...
+LostFood,Fox4_2,我餓了！
+Touch_30,Fox2_7,欸欸欸，手摸哪手摸哪？
+Touch_60,Fox1_7,你喜歡毛茸茸的尾巴對吧？
+Touch_100,Fox2_5,能遇見你，真是太好了。
+Touch_max,Fox1_13,我喜歡...呀！不要逼我說啦...
+Hit,Fox3_11,你瘋了嗎？

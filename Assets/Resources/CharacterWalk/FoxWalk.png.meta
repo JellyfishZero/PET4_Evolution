@@ -1,0 +1,2736 @@
+fileFormatVersion: 2
+guid: 3d3563ab7780db1498f00e0ee5ef25c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6064738206761870953
+    second: tkool4vip9277_0
+  - first:
+      213: -5346715003127838531
+    second: tkool4vip9277_1
+  - first:
+      213: -3022884994879869173
+    second: tkool4vip9277_2
+  - first:
+      213: 6991056337376940979
+    second: tkool4vip9277_3
+  - first:
+      213: 1837233887141196985
+    second: tkool4vip9277_4
+  - first:
+      213: -1329646945883558914
+    second: tkool4vip9277_5
+  - first:
+      213: 7674275864786751581
+    second: tkool4vip9277_6
+  - first:
+      213: 5355412079324823105
+    second: tkool4vip9277_7
+  - first:
+      213: 3111120909614745565
+    second: tkool4vip9277_8
+  - first:
+      213: 7460208647574918044
+    second: tkool4vip9277_9
+  - first:
+      213: 2193167449206389376
+    second: tkool4vip9277_10
+  - first:
+      213: -7775929146628432839
+    second: tkool4vip9277_11
+  - first:
+      213: -2846160015760897684
+    second: tkool4vip9277_12
+  - first:
+      213: -2322821081434618311
+    second: tkool4vip9277_13
+  - first:
+      213: 3789331556914291776
+    second: tkool4vip9277_14
+  - first:
+      213: -4532124491682675655
+    second: tkool4vip9277_15
+  - first:
+      213: 7222598077882015311
+    second: tkool4vip9277_16
+  - first:
+      213: 2910861312826006450
+    second: tkool4vip9277_17
+  - first:
+      213: 3214346117074031639
+    second: tkool4vip9277_18
+  - first:
+      213: 8351410588351586181
+    second: tkool4vip9277_19
+  - first:
+      213: -4921955450208120506
+    second: tkool4vip9277_20
+  - first:
+      213: 4639251068643059519
+    second: tkool4vip9277_21
+  - first:
+      213: 7575469721430274026
+    second: tkool4vip9277_22
+  - first:
+      213: 4177949029127132341
+    second: tkool4vip9277_23
+  - first:
+      213: -4443145820395764207
+    second: tkool4vip9277_24
+  - first:
+      213: 3566618163581475601
+    second: tkool4vip9277_25
+  - first:
+      213: 567980906511252355
+    second: tkool4vip9277_26
+  - first:
+      213: -5052415834941962822
+    second: tkool4vip9277_27
+  - first:
+      213: 1540417785857582200
+    second: tkool4vip9277_28
+  - first:
+      213: 2439106912273857715
+    second: tkool4vip9277_29
+  - first:
+      213: -4730350252847510045
+    second: tkool4vip9277_30
+  - first:
+      213: 6088560906344323045
+    second: tkool4vip9277_31
+  - first:
+      213: 209093661304947244
+    second: tkool4vip9277_32
+  - first:
+      213: -5396932091920937178
+    second: tkool4vip9277_33
+  - first:
+      213: 2501018538322768082
+    second: tkool4vip9277_34
+  - first:
+      213: 7558984095523221651
+    second: tkool4vip9277_35
+  - first:
+      213: 4735728368850867023
+    second: tkool4vip9277_36
+  - first:
+      213: -5169710703428020869
+    second: tkool4vip9277_37
+  - first:
+      213: 6993993018988895533
+    second: tkool4vip9277_38
+  - first:
+      213: 1752197288452122637
+    second: tkool4vip9277_39
+  - first:
+      213: 4246028578582765005
+    second: tkool4vip9277_40
+  - first:
+      213: 5540537950815804698
+    second: tkool4vip9277_41
+  - first:
+      213: 2408607635844500661
+    second: tkool4vip9277_42
+  - first:
+      213: 1697610346789548902
+    second: tkool4vip9277_43
+  - first:
+      213: 6499086751733052482
+    second: tkool4vip9277_44
+  - first:
+      213: -209390068796947108
+    second: tkool4vip9277_45
+  - first:
+      213: -1946288192780134875
+    second: tkool4vip9277_46
+  - first:
+      213: 3886179065834981675
+    second: tkool4vip9277_47
+  - first:
+      213: 657647960454220014
+    second: tkool4vip9277_48
+  - first:
+      213: -5999571755590957877
+    second: tkool4vip9277_49
+  - first:
+      213: -1446923276256266964
+    second: tkool4vip9277_50
+  - first:
+      213: 5869499428799757281
+    second: tkool4vip9277_51
+  - first:
+      213: 5956109086178546979
+    second: tkool4vip9277_52
+  - first:
+      213: 7679901043824723271
+    second: tkool4vip9277_53
+  - first:
+      213: -5164200562224785583
+    second: tkool4vip9277_54
+  - first:
+      213: 2908735714350823053
+    second: tkool4vip9277_55
+  - first:
+      213: 8826310755767576408
+    second: tkool4vip9277_56
+  - first:
+      213: -7783891646163863534
+    second: tkool4vip9277_57
+  - first:
+      213: -368640157137555258
+    second: tkool4vip9277_58
+  - first:
+      213: 4708415134401606288
+    second: tkool4vip9277_59
+  - first:
+      213: 4695753088224666307
+    second: tkool4vip9277_60
+  - first:
+      213: 4718396745818653703
+    second: tkool4vip9277_61
+  - first:
+      213: -6912471595360685266
+    second: tkool4vip9277_62
+  - first:
+      213: -2189755685745698303
+    second: tkool4vip9277_63
+  - first:
+      213: -8221066855883240551
+    second: tkool4vip9277_64
+  - first:
+      213: 6581345955691724671
+    second: tkool4vip9277_65
+  - first:
+      213: 4366054147332816244
+    second: tkool4vip9277_66
+  - first:
+      213: -9201624214005807370
+    second: tkool4vip9277_67
+  - first:
+      213: -5321195223952824012
+    second: tkool4vip9277_68
+  - first:
+      213: 7166078091440531429
+    second: tkool4vip9277_69
+  - first:
+      213: 4060760823308829673
+    second: tkool4vip9277_70
+  - first:
+      213: -5018936407584829899
+    second: tkool4vip9277_71
+  - first:
+      213: 2759559023932471278
+    second: tkool4vip9277_72
+  - first:
+      213: -1139359828468498336
+    second: tkool4vip9277_73
+  - first:
+      213: -5490166184368103005
+    second: tkool4vip9277_74
+  - first:
+      213: 1072701693663748197
+    second: tkool4vip9277_75
+  - first:
+      213: -1242591488738811710
+    second: tkool4vip9277_76
+  - first:
+      213: -6937604044607603033
+    second: tkool4vip9277_77
+  - first:
+      213: 7652828268738188560
+    second: tkool4vip9277_78
+  - first:
+      213: -3392790218918917295
+    second: tkool4vip9277_79
+  - first:
+      213: 8011715263193552176
+    second: tkool4vip9277_80
+  - first:
+      213: -3820272558568058682
+    second: tkool4vip9277_81
+  - first:
+      213: 7398931135359358187
+    second: tkool4vip9277_82
+  - first:
+      213: 8724004744863455185
+    second: tkool4vip9277_83
+  - first:
+      213: -1133446414730512174
+    second: tkool4vip9277_84
+  - first:
+      213: 6660640082076240987
+    second: tkool4vip9277_85
+  - first:
+      213: 456749469541218084
+    second: tkool4vip9277_86
+  - first:
+      213: 4629810750423198712
+    second: tkool4vip9277_87
+  - first:
+      213: 8788941067467240316
+    second: tkool4vip9277_88
+  - first:
+      213: -3809906978758640027
+    second: tkool4vip9277_89
+  - first:
+      213: -6763597113551137401
+    second: tkool4vip9277_90
+  - first:
+      213: 645065279320777530
+    second: tkool4vip9277_91
+  - first:
+      213: 6378825910495860480
+    second: tkool4vip9277_92
+  - first:
+      213: -8118950932536205376
+    second: tkool4vip9277_93
+  - first:
+      213: 7920525475729081433
+    second: tkool4vip9277_94
+  - first:
+      213: -1359082947187739311
+    second: tkool4vip9277_95
+  - first:
+      213: -6154074077904168805
+    second: FoxWalk_0
+  - first:
+      213: -4263655198401576805
+    second: FoxWalk_1
+  - first:
+      213: -6392314461666206811
+    second: FoxWalk_2
+  - first:
+      213: -4026589193888322145
+    second: FoxWalk_3
+  - first:
+      213: 407300832059955359
+    second: FoxWalk_4
+  - first:
+      213: -8265057372550495414
+    second: FoxWalk_5
+  - first:
+      213: 3411111091862772637
+    second: FoxWalk_6
+  - first:
+      213: 7809006073197409394
+    second: FoxWalk_7
+  - first:
+      213: 8196675603353705298
+    second: FoxWalk_8
+  - first:
+      213: 8183419479196274726
+    second: FoxWalk_9
+  - first:
+      213: -5718314973588937674
+    second: FoxWalk_10
+  - first:
+      213: 5586680688140910927
+    second: FoxWalk_11
+  - first:
+      213: 2403683716563105763
+    second: FoxWalk_12
+  - first:
+      213: -5656822499466545488
+    second: FoxWalk_13
+  - first:
+      213: -4773374760684216703
+    second: FoxWalk_14
+  - first:
+      213: 4610255969138361729
+    second: FoxWalk_15
+  - first:
+      213: 6825875960259731866
+    second: FoxWalk_16
+  - first:
+      213: 4068780597601352001
+    second: FoxWalk_17
+  - first:
+      213: -4368021254766074504
+    second: FoxWalk_18
+  - first:
+      213: 9069970734894297350
+    second: FoxWalk_19
+  - first:
+      213: -5056711090544277127
+    second: FoxWalk_20
+  - first:
+      213: -366126729115587361
+    second: FoxWalk_21
+  - first:
+      213: 7575556587294125437
+    second: FoxWalk_22
+  - first:
+      213: 3129844894067322601
+    second: FoxWalk_23
+  - first:
+      213: -5408240468863068319
+    second: FoxWalk_24
+  - first:
+      213: -3869654340004738715
+    second: FoxWalk_25
+  - first:
+      213: 6305764606250554500
+    second: FoxWalk_26
+  - first:
+      213: 7842540447757780880
+    second: FoxWalk_27
+  - first:
+      213: 5472081947652776832
+    second: FoxWalk_28
+  - first:
+      213: 9129208717283170300
+    second: FoxWalk_29
+  - first:
+      213: -8077039089466252178
+    second: FoxWalk_30
+  - first:
+      213: 5470928344144221015
+    second: FoxWalk_31
+  - first:
+      213: -7501420163926387841
+    second: FoxWalk_32
+  - first:
+      213: 2897025130300146080
+    second: FoxWalk_33
+  - first:
+      213: 548688373677630795
+    second: FoxWalk_34
+  - first:
+      213: 7160850418627430668
+    second: FoxWalk_35
+  - first:
+      213: -6714356731505430015
+    second: FoxWalk_36
+  - first:
+      213: -3527612424453734717
+    second: FoxWalk_37
+  - first:
+      213: 1509299014938390861
+    second: FoxWalk_38
+  - first:
+      213: 283355895783579594
+    second: FoxWalk_39
+  - first:
+      213: -371704516515709799
+    second: FoxWalk_40
+  - first:
+      213: -7676251082641803399
+    second: FoxWalk_41
+  - first:
+      213: -8642156327238634606
+    second: FoxWalk_42
+  - first:
+      213: -2435588706910898232
+    second: FoxWalk_43
+  - first:
+      213: -9013124194731556939
+    second: FoxWalk_44
+  - first:
+      213: -223718655973554169
+    second: FoxWalk_45
+  - first:
+      213: 413577321920409196
+    second: FoxWalk_46
+  - first:
+      213: -5669906919902271371
+    second: FoxWalk_47
+  - first:
+      213: -4345161772225091238
+    second: FoxWalk_48
+  - first:
+      213: 6339576664501311689
+    second: FoxWalk_49
+  - first:
+      213: -5953744635635022274
+    second: FoxWalk_50
+  - first:
+      213: 881274749874946123
+    second: FoxWalk_51
+  - first:
+      213: 7635441639812553460
+    second: FoxWalk_52
+  - first:
+      213: -41247524449317071
+    second: FoxWalk_53
+  - first:
+      213: 3660887270344371099
+    second: FoxWalk_54
+  - first:
+      213: -4458273024010355457
+    second: FoxWalk_55
+  - first:
+      213: -657351600911103235
+    second: FoxWalk_56
+  - first:
+      213: -8801300916688092801
+    second: FoxWalk_57
+  - first:
+      213: -6355158020888882527
+    second: FoxWalk_58
+  - first:
+      213: -1924308479910576668
+    second: FoxWalk_59
+  - first:
+      213: 5373636914216835238
+    second: FoxWalk_60
+  - first:
+      213: 5885547532792234701
+    second: FoxWalk_61
+  - first:
+      213: 3544698507026711269
+    second: FoxWalk_62
+  - first:
+      213: 2342577995560491052
+    second: FoxWalk_63
+  - first:
+      213: -6678653888197929240
+    second: FoxWalk_64
+  - first:
+      213: -4154979944331790319
+    second: FoxWalk_65
+  - first:
+      213: -4189441166695039776
+    second: FoxWalk_66
+  - first:
+      213: 9163962627322273558
+    second: FoxWalk_67
+  - first:
+      213: 8102788662383706946
+    second: FoxWalk_68
+  - first:
+      213: -7042138408489635448
+    second: FoxWalk_69
+  - first:
+      213: 5362283366138052295
+    second: FoxWalk_70
+  - first:
+      213: 7395024773106908344
+    second: FoxWalk_71
+  - first:
+      213: -2511070603346301162
+    second: FoxWalk_72
+  - first:
+      213: -3685507356387471682
+    second: FoxWalk_73
+  - first:
+      213: 8753911305737041897
+    second: FoxWalk_74
+  - first:
+      213: 5496032529382396750
+    second: FoxWalk_75
+  - first:
+      213: -4702245677731300350
+    second: FoxWalk_76
+  - first:
+      213: -7496598494937563281
+    second: FoxWalk_77
+  - first:
+      213: 4754563562807448310
+    second: FoxWalk_78
+  - first:
+      213: -7727975021006608644
+    second: FoxWalk_79
+  - first:
+      213: -4772943146254147379
+    second: FoxWalk_80
+  - first:
+      213: -3781307558965212779
+    second: FoxWalk_81
+  - first:
+      213: -1266238794754995098
+    second: FoxWalk_82
+  - first:
+      213: -4510019262819034632
+    second: FoxWalk_83
+  - first:
+      213: 3138270149969593191
+    second: FoxWalk_84
+  - first:
+      213: 3133110857675651584
+    second: FoxWalk_85
+  - first:
+      213: 6793334166488872204
+    second: FoxWalk_86
+  - first:
+      213: 9100437614649596719
+    second: FoxWalk_87
+  - first:
+      213: 8058872488062947009
+    second: FoxWalk_88
+  - first:
+      213: -8950347236673224640
+    second: FoxWalk_89
+  - first:
+      213: -4098481108173514131
+    second: FoxWalk_90
+  - first:
+      213: 6007028702894104022
+    second: FoxWalk_91
+  - first:
+      213: -9207696264636900481
+    second: FoxWalk_92
+  - first:
+      213: 8457244870642624643
+    second: FoxWalk_93
+  - first:
+      213: -4099684287881836241
+    second: FoxWalk_94
+  - first:
+      213: -4410395641469541178
+    second: FoxWalk_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoxWalk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9815195b36589aa0800000000000000
+      internalID: -6154074077904168805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c686df2474d4c0800000000000000
+      internalID: -4263655198401576805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab1bc37ddfe947a0800000000000000
+      internalID: -6392314461666206811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d2cd1467eae18c0800000000000000
+      internalID: -4026589193888322145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9897a3e2f507a500800000000000000
+      internalID: 407300832059955359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4387ec1c1e9c4d80800000000000000
+      internalID: -8265057372550495414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b10e71773b65f20800000000000000
+      internalID: 3411111091862772637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274bcc156a92f5c60800000000000000
+      internalID: 7809006073197409394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b120d880170c170800000000000000
+      internalID: 8196675603353705298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6209181a8a8519170800000000000000
+      internalID: 8183419479196274726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6342f6514d674a0b0800000000000000
+      internalID: -5718314973588937674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f418c228c70e78d40800000000000000
+      internalID: 5586680688140910927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7722eda999b5120800000000000000
+      internalID: 2403683716563105763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6fbd968edee71b0800000000000000
+      internalID: -5656822499466545488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e1a9112f091cdb0800000000000000
+      internalID: -4773374760684216703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185cd14b06beaff30800000000000000
+      internalID: 4610255969138361729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e82455026abe50800000000000000
+      internalID: 6825875960259731866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149b70d6566377830800000000000000
+      internalID: 4068780597601352001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875ef42cfcba163c0800000000000000
+      internalID: -4368021254766074504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601309024520fdd70800000000000000
+      internalID: 9069970734894297350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97984540e04f2d9b0800000000000000
+      internalID: -5056711090544277127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc2a400ea14beaf0800000000000000
+      internalID: -366126729115587361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d69814498c12960800000000000000
+      internalID: 7575556587294125437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eee3f839517f6b20800000000000000
+      internalID: 3129844894067322601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167568992f112f4b0800000000000000
+      internalID: -5408240468863068319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569087c41e93c4ac0800000000000000
+      internalID: -3869654340004738715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4849bc00083928750800000000000000
+      internalID: 6305764606250554500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0974c355cfc46dc60800000000000000
+      internalID: 7842540447757780880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083ebaff98db0fb40800000000000000
+      internalID: 5472081947652776832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf71012b5f671be70800000000000000
+      internalID: 9129208717283170300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e646b6bfdb798ef80800000000000000
+      internalID: -8077039089466252178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7531550c754aceb40800000000000000
+      internalID: 5470928344144221015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73173aea1a95e790800000000000000
+      internalID: -7501420163926387841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a18be4c10d443820800000000000000
+      internalID: 2897025130300146080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4521753b255d9700800000000000000
+      internalID: 548688373677630795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09cef31483706360800000000000000
+      internalID: 7160850418627430668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102bd5b7020d1d2a0800000000000000
+      internalID: -6714356731505430015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3e27a0376b0fc0800000000000000
+      internalID: -3527612424453734717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ff3d157b12f410800000000000000
+      internalID: 1509299014938390861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf51399faeaee300800000000000000
+      internalID: 283355895783579594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c3cab26b077daf0800000000000000
+      internalID: -371704516515709799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9777d649f4a787590800000000000000
+      internalID: -7676251082641803399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293fb85cb94e01880800000000000000
+      internalID: -8642156327238634606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77f91b9fc033ed0800000000000000
+      internalID: -2435588706910898232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffb886c43fae280800000000000000
+      internalID: -9013124194731556939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088115511135ecf0800000000000000
+      internalID: -223718655973554169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e293012625db500800000000000000
+      internalID: 413577321920409196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57822b162b17051b0800000000000000
+      internalID: -5669906919902271371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59aaeac362e2b3c0800000000000000
+      internalID: -4345161772225091238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d4f94363baf750800000000000000
+      internalID: 6339576664501311689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3646955ccc006da0800000000000000
+      internalID: -5953744635635022274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4041df37baea3c00800000000000000
+      internalID: 881274749874946123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fad04497b986f960800000000000000
+      internalID: 7635441639812553460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f855558957d6ff0800000000000000
+      internalID: -41247524449317071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b20af73951ec230800000000000000
+      internalID: 3660887270344371099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf72c3e480122c0800000000000000
+      internalID: -4458273024010355457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfac827a33e90e6f0800000000000000
+      internalID: -657351600911103235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f718c73927f7bd580800000000000000
+      internalID: -8801300916688092801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a291797371fdc7a0800000000000000
+      internalID: -6355158020888882527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed78a802ab7b45e0800000000000000
+      internalID: -1924308479910576668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a812df7d4ef29a40800000000000000
+      internalID: 5373636914216835238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc202c05c4aada150800000000000000
+      internalID: 5885547532792234701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e24f23f28c413130800000000000000
+      internalID: 3544698507026711269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2897048642828020800000000000000
+      internalID: 2342577995560491052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e65e287ca7a053a0800000000000000
+      internalID: -6678653888197929240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1183b3131cb8656c0800000000000000
+      internalID: -4154979944331790319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec7ebb947d1cd5c0800000000000000
+      internalID: -4189441166695039776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fdf70f47fec2f70800000000000000
+      internalID: 9163962627322273558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2438177ab53e27070800000000000000
+      internalID: 8102788662383706946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88137d6ad6c454e90800000000000000
+      internalID: -7042138408489635448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cef4a79f48aa6a40800000000000000
+      internalID: 5362283366138052295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc3042c9d760a660800000000000000
+      internalID: 7395024773106908344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f2e992792e62dd0800000000000000
+      internalID: -2511070603346301162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe8f6506927adcc0800000000000000
+      internalID: -3685507356387471682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e77bbdc3f32c7970800000000000000
+      internalID: 8753911305737041897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4354db5774d54c40800000000000000
+      internalID: 5496032529382396750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cb53c38744ebeb0800000000000000
+      internalID: -4702245677731300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fb485336bb6f790800000000000000
+      internalID: -7496598494937563281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2572f9e5a9bf140800000000000000
+      internalID: 4754563562807448310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf62fc7b9a7b0c490800000000000000
+      internalID: -7727975021006608644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0e2622f7913cdb0800000000000000
+      internalID: -4772943146254147379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_81
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59901613fc8168bc0800000000000000
+      internalID: -3781307558965212779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c4fc5668a6d6ee0800000000000000
+      internalID: -1266238794754995098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9908520613961c0800000000000000
+      internalID: -4510019262819034632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763462af2106d8b20800000000000000
+      internalID: 3138270149969593191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a3da1a9bb0b7b20800000000000000
+      internalID: 3133110857675651584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05f71a8e65c64e50800000000000000
+      internalID: 6793334166488872204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bdac95bcf3b4e70800000000000000
+      internalID: 9100437614649596719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce092584ddd6df60800000000000000
+      internalID: 8058872488062947009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04081b5fb9af9c380800000000000000
+      internalID: -8950347236673224640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a1ba495254f17c0800000000000000
+      internalID: -4098481108173514131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd149757c04d5350800000000000000
+      internalID: 6007028702894104022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b50a22801b73080800000000000000
+      internalID: -9207696264636900481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e525c66b2e5570800000000000000
+      internalID: 8457244870642624643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f298d897cdefa17c0800000000000000
+      internalID: -4099684287881836241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxWalk_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4e64708802bc2c0800000000000000
+      internalID: -4410395641469541178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

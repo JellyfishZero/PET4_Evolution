@@ -1,0 +1,13 @@
+﻿使用時機,頭像,對話($0=不顯示)
+Default,Cat1_0,
+FindFood,Cat3_5,我的！我的！我的！
+FindFood,Cat1_6,喵！是吃的！
+GetFood,Cat2_2,喵～真好吃。
+GetFood,Cat3_9,太好吃了喵。
+LostFood,Cat3_13,啊！被搶走了！
+LostFood,Cat1_5,該給我東西吃了吧！
+Touch_30,Cat1_7,喂！別亂摸啊！
+Touch_60,Cat2_2,嗯～好舒服。
+Touch_100,Cat1_11,在這裡待著，很快樂喔。
+Touch_max,Cat2_1,你永遠不可以離開我喔。
+Hit,Cat3_8,啊！痛痛痛。為什麼要打我？
